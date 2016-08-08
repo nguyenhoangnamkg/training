@@ -14,6 +14,7 @@ namespace ConsoleApplication1
             string b = "";
             string z = "Quân đập chai";
             string Nam = "";
+            string Linh = "sua";
         }
     }
 }
