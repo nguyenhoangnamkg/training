@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             string a = "";
             string b = "";
+            string z = "Quân đập chai";
+            string Nam = "";
         }
     }
 }
